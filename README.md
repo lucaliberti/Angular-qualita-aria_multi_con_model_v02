@@ -1,5 +1,7 @@
 # AngularWeatherWidget
 
+<img src="Angular-qualita-aria_multi_con_model_v02.png" width="300"/>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
